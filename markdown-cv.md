@@ -1,6 +1,6 @@
 # Mahmoud A. El-Ali
 
-![Mahmoud elali's picture](./%D9%85%D8%AD%D9%85%D9%88%D8%AF%20%D8%A7%D9%84%D8%B9%D9%84%D9%8A.jpg "Mahmoud elali's picture")
+![Mahmoud elali's picture](./profile.jpg "Mahmoud elali's picture")
 
 29 July 1998
 
