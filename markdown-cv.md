@@ -50,7 +50,7 @@ Sales invoice
 ## Web :
 #
 
-    WEB: CSS, HTML, JavaScript.
+    WEB: CSS, HTML, JavaScript.    
     Software: Visual Studio 2019 ,Microsoft Office .
     Operating System: Windows . Linux.  
 
